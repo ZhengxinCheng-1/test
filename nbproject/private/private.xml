@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/dao/SysUserDao.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/web/info.jsp</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/web/index.jsp</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/web/WEB-INF/glassfish-web.xml</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/servlet/LogServlet.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/model/Payment.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/web/historyPayment.jsp</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/model/SysUser.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/dao/DeviceDao.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/dao/OrdersDao.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/service/OrdersService.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/servlet/DeviceServlet.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/web/historyOrder.jsp</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/web/main.jsp</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/web/device.jsp</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/servlet/OrdersServlet.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/model/Device.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/model/Orders.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/servlet/SysUserServlet.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/service/DeviceService.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/utils/ConnectionUtil.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/service/SysLogService.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/src/com/pro/dao/PaymentDao.java</file>
+            <file>file:/C:/Users/15343/Desktop/1/pro/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
